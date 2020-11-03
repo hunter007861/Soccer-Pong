@@ -1,2 +1,2 @@
 # Soccer-Pong
- Game
+ Pong Game
